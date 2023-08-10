@@ -43,6 +43,11 @@ const Navbar = () => {
           </Link>
         </li>
         <li className='uppercase text-sm font-semibold'>
+          <Link to='timetable' smooth={true} duration={500}>
+          Time-Table
+          </Link>
+        </li>
+        <li className='uppercase text-sm font-semibold'>
           <Link to='contact' smooth={true} duration={500}>
             Contact
           </Link>
@@ -83,6 +88,12 @@ const Navbar = () => {
           {' '}
           <Link onClick={handleClick} to='work' smooth={true} duration={500}>
             Work
+          </Link>
+        </li>
+        <li className='py-6 text-1xl uppercase font-semibold'>
+          {' '}
+          <Link onClick={handleClick} to='timetable' smooth={true} duration={500}>
+            Time-Table
           </Link>
         </li>
         <li className='py-6 text-1xl uppercase font-semibold'>

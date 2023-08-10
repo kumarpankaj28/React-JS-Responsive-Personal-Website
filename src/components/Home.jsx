@@ -20,7 +20,7 @@ const Home = () => {
           building responsive full-stack web applications.
         </p>
         <div>
-          <button className='bg-teal-600 rounded-full text-white transition-all group border-2 px-6 py-3 my-2 flex items-center hover:bg-teal-600 hover:border-teal-600'>
+         <button className='bg-teal-600 rounded-full text-white transition-all group border-2 px-6 py-3 my-2 flex items-center hover:bg-teal-600 hover:border-teal-600'>
             View Work
             <span className='duration-300'>
               <HiArrowNarrowRight className='ml-3 ' />

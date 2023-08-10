@@ -14,11 +14,11 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Chris Lana, nice to meet you. Please take a look around.</p>
+              <p>Hi. I'm <span className='text-4xl sm:text-7xl font-bold text-[#FF00FF]'>Muskan</span>, Nice to meet you. Please take a look around.</p>
             </div>
             <div>
               <p>
-              Chris Lana is a UX designer who is passionate about ethical design, 
+              Muskan is a good girl who is passionate about social work, 
               accessibility, and inclusion. Her homepage communicates both the 
               type of work she does and a bit of her personality through eye-catching 
               and creative design. What would you do if you had a software expert 
