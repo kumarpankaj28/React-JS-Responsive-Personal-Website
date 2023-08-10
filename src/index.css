@@ -26,12 +26,12 @@
     background-image: linear-gradient(
         to right,
         rgba(112, 188, 255, 0.8),
-        hsla(191, 74%, 61%, 0.8)   
+        #52cae5cc   
     )!important;
 }
 
 .banner{
-    background: url(../src/assets/pic1\ -\ Copy.jpeg) no-repeat right center;
+    background: url(../src/assets/pic1.jpeg) no-repeat right center;
     background-size: cover;
 }
 
